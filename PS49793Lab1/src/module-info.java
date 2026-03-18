@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Slide1 {
+module PS49793Lab1 {
 }
